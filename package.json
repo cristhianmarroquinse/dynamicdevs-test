@@ -1,0 +1,12 @@
+{
+    "name": "dynamic-devs-tests",
+    "version": "1.0.0",
+    "description": "",
+    "author": "Cristhian Marroquin <cristhianmarroquinse@gmail.com>",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
