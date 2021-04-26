@@ -7,9 +7,6 @@ const algorithmTestA = text => {
         if(charCode !== 241 && (charCode < 97 || charCode > 122)) continue
         
         switch(s[i]) {
-            case ' ':
-                s[i] = ' ';
-                break;
             case 'z':
                 s[i] = 'a';
                 break;
