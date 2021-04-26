@@ -17,7 +17,7 @@ cd dynamicdevs-test
 npm i
 ```
 
-Run tests...
+Run tests
 
 ```sh
 npm run test
